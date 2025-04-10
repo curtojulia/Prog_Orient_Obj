@@ -14,7 +14,7 @@ public class Main {
         int valor_largura = teclado.nextInt();
         int valor_altura = teclado.nextInt();
 
-        Retangulo r1 = new Retangulo(valor_x, valor_altura,valor_largura,valor_altura);
+        Retangulo r1 = new Retangulo(4,7,8);
 
         r1.mover(6,7);
         r1.desenhar();
