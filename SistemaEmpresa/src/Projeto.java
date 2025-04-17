@@ -34,8 +34,8 @@ public class Projeto {
                 qntDeMembros--;
                 return true;
             }
-            return false;
         }
+         return false;
     }
     
 }
